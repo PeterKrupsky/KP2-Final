@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "title": "Биг Хит",
+      "vendor_code": "111",
+      "description": "",
+      "price": 214,
+      "img": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/199007338-big-mak-600x600.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Чизбургер",
+      "vendor_code": "222",
+      "description": "",
+      "price": 48,
+      "img": "https://irecommend.ru/sites/default/files/product-images/10297/AicNGqZUXD6gQsn3iYF1Q.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Цезарь-ролл",
+      "vendor_code": "333",
+      "description": "",
+      "price": 268,
+      "img": "https://burgerkings.ru/image/cache/catalog/photo/318814942-tsezar-roll-so-stripsami-600x600.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Картошка-фри",
+      "vendor_code": "444",
+      "description": "",
+      "price": 95,
+      "img": "hhttps://sun9-25.userapi.com/impg/MHUm-uhidV-zJ0BWk5PGi9oe28eN9s_672Goqg/tf5NPb32MqE.jpg?size=807x807&quality=96&sign=1ca9c7070f0cb47a297e37d626083f85&c_uniq_tag=ntxu9sEsd2EaX2TtA7-0-WmaIos6JfEVXLGXgr-724I&type=album"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Биг Спешл",
+      "vendor_code": "555",
+      "description": "",
+      "price": 358,
+      "img": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/big-tasty.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Добрый Кола",
+      "vendor_code": "666",
+      "description": "",
+      "price": 400,
+      "img": "https://rskrf.ru/upload/iblock/a3c/9dhya89zswb6mzc0f790prjqmc8em4af.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Мороженое",
+      "vendor_code": "777",
+      "description": "",
+      "price": 45,
+      "img": "https://www.inmarko.ru/upload/Products/imgs/detailLarge/91adf18306ccc863f5db97648e393e40.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Пирожок",
+      "vendor_code": "888",
+      "description": "",
+      "price": 99,
+      "img": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/mcpie-1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Чай Черный",
+      "vendor_code": "999",
+      "description": "",
+      "price": 76,
+      "img": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI2NTI2ODQ0L29yaWdpbmFsLzEvMjAyMy0xMC0wMlQxMyUzQTAzJTNBMzguODkwNDEyJTJCMDAlM0EwMC8yNjUyNjg0NF8xLmpwZw==.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Латте Макиято",
+      "vendor_code": "999е",
+      "description": "",
+      "price": 125,
+      "img": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/84607302-ajs-kofe-karamel-600x600.jpg"
+    }
+  ]

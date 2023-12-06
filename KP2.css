@@ -1,0 +1,58 @@
+.navigation {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 710px;
+    margin: 0 auto;
+  }
+  @media (min-width: 780px){
+    .navigation {
+      display: flex;
+      flex-direction: row; 
+      margin: 0 auto;
+    }
+  }
+  
+  @media (min-width: 780px){
+    .navigation_item {
+      width: 390px;
+      margin: 0 auto;
+    }
+  }
+  @media (min-width: 1200px) {
+    .navigation {
+      max-width: 980px;
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+    }
+  }
+  @media (min-width: 1200px){
+    .navigation {
+      display: flex;
+      justify-content: space-between;
+      width: 540px;
+      margin: 0 auto;
+    }
+  }
+  
+  @media (max-width: 1200px){
+    .nav-list {
+      width: 60px;
+    }
+  }
+  @media (min-height: 1024px){
+    .user-list {
+      
+    }
+  }
+  
+  @media (max-height: 1024px){
+    .navigation {
+      
+    }
+  }
+  @media (min-resolution: 2dppx) {
+    .navigation {
+        background-image: url("https://incrussia.ru/wp-content/uploads/2023/06/vkusnoitochka3-1024x683.jpg");
+    }
+} 
